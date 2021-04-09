@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon!
-- 👀 I’m interested in coding, building computers, gaming, and everything tech.
+- 🎮 I’m interested in coding, building computers, gaming, and everything tech.
 - 📘 I’m currently learning anything and everything that I can.
 
 <!---
